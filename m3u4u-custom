@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="------|USA|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/------|USA|------.png" group-title="USA General",------|USA|------
 http://ay32.aatvbox.club:8880/wh12m8988/3dqGTZyJET/3168
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:-----|GENERAL|--------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|GENERAL|--------------------------------.png" group-title="USA General",USA:-----|GENERAL|--------------------------------
